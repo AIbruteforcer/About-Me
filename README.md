@@ -3,36 +3,27 @@
 <head>
     <style>
         h1 {
-            color: #333;
-            font-family: Arial, sans-serif;
-            font-size: 24px;
             text-align: center;
             margin-top: 50px;
         }
 
         p {
-            color: #666;
-            font-family: Arial, sans-serif;
-            font-size: 16px;
             text-align: center;
             margin-top: 20px;
         }
 
-        .square-button {
+        .button {
             display: inline-block;
-            width: 150px;
-            height: 150px;
+            padding: 10px 20px;
             background-color: #f0f0f0;
             color: #333;
             text-decoration: none;
-            text-align: center;
-            line-height: 150px;
             margin: 10px;
             font-family: Arial, sans-serif;
             font-size: 16px;
         }
 
-        .square-button:hover {
+        .button:hover {
             background-color: #ddd;
         }
     </style>
@@ -49,9 +40,7 @@
         </i>
     </p>
 
-    <div class="links-container" style="text-align: center;">
-        <a href="https://github.com/AIbruteforcer" class="square-button">GitHub</a>
-        <a href="https://www.youtube.com/enderlite" class="square-button">YouTube</a>
-    </div>
+    <a href="https://github.com/AIbruteforcer" class="button">GitHub</a>
+    <a href="https://www.youtube.com/enderlite" class="button">YouTube</a>
 </body>
 </html>
