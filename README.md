@@ -1,47 +1,52 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>My GitHub Page</title>
-  <style>
-    .button {
-      display: inline-block;
-      padding: 10px 20px;
-      border-radius: 20px;
-      text-decoration: none;
-      font-weight: bold;
-      text-align: center;
-      color: #ffffff;
-      cursor: pointer;
-      margin: 10px;
-      border: none; /* Added to remove the border */
-    }
+    <title>My Page</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+        }
 
-    .youtube-button {
-      background-color: #ff0000;
-    }
+        h1 {
+            text-align: center;
+        }
 
-    .github-button {
-      background-color: #000000;
-    }
+        p {
+            text-align: center;
+            font-style: italic;
+        }
 
-    .chatgpt-button {
-      background-color: #00ff00;
-    }
-  </style>
+        .links-container {
+            text-align: center;
+            margin-top: 20px;
+        }
+
+        .links-container a {
+            display: inline-block;
+            margin: 5px;
+            padding: 10px 15px;
+            background-color: blue;
+            color: white;
+            text-decoration: none;
+            border-radius: 5px;
+        }
+    </style>
 </head>
 <body>
-  <h1>Welcome to my GitHub Page!</h1>
+    <h1>Hi, guys!</h1>
 
-  <a href="https://youtube.com/@enderlite_" target="_blank" class="button youtube-button">
-    Visit My YouTube Channel
-  </a>
+    <p>
+        <b>Welcome to my page!</b><br><br>
+        <i>
+            I'm [Your Name].<br>
+            Currently working on chatbot development using AI techniques.<br>
+            Open to collaborating on interesting and innovative projects.<br>
+        </i>
+    </p>
 
-  <a href="https://github.com/Enderlite" target="_blank" class="button github-button">
-    Visit My GitHub Profile
-  </a>
-
-  <a href="https://github.com/AIbruteforcer/" target="_blank" class="button chatgpt-button">
-    Visit My GitHub Repository
-  </a>
+    <div class="links-container">
+        <a href="https://github.com/AIbruteforcer">GitHub</a>
+        <a href="https://www.youtube.com/enderlite">YouTube</a>
+    </div>
 </body>
 </html>
