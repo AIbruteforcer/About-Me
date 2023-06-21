@@ -13,6 +13,7 @@
       color: #ffffff;
       cursor: pointer;
       margin: 10px;
+      border: none; /* Added to remove the border */
     }
 
     .youtube-button {
@@ -35,4 +36,12 @@
     Visit My YouTube Channel
   </a>
 
-  <a href="https://github.com/Enderlite"
+  <a href="https://github.com/Enderlite" target="_blank" class="button github-button">
+    Visit My GitHub Profile
+  </a>
+
+  <a href="https://github.com/AIbruteforcer/" target="_blank" class="button chatgpt-button">
+    Visit My GitHub Repository
+  </a>
+</body>
+</html>
