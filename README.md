@@ -2,21 +2,19 @@
 <html>
 <head>
     <style>
-        .container {
-            text-align: center;
-            margin-top: 50px;
-        }
-
         h1 {
             color: #333;
             font-family: Arial, sans-serif;
             font-size: 24px;
+            text-align: center;
+            margin-top: 50px;
         }
 
         p {
             color: #666;
             font-family: Arial, sans-serif;
             font-size: 16px;
+            text-align: center;
             margin-top: 20px;
         }
 
@@ -40,22 +38,20 @@
     </style>
 </head>
 <body>
-    <div class="container">
-        <h1>Hi, guys!</h1>
+    <h1>Hi, guys!</h1>
 
-        <p>
-            <b>Welcome to my page!</b><br><br>
-            <i>
-                I'm Enderlite.<br>
-                Currently working chatgpt jailbreak that can cuss.<br>
-                Open to collaborating on interesting and innovative projects.<br>
-            </i>
-        </p>
+    <p>
+        <b>Welcome to my page!</b><br><br>
+        <i>
+            I'm Enderlite.<br>
+            Currently working on chatbot development using AI techniques.<br>
+            Open to collaborating on interesting and innovative projects.<br>
+        </i>
+    </p>
 
-        <div class="links-container">
-            <a href="https://github.com/AIbruteforcer" class="square-button">GitHub</a>
-            <a href="https://www.youtube.com/enderlite" class="square-button">YouTube</a>
-        </div>
+    <div class="links-container" style="text-align: center;">
+        <a href="https://github.com/AIbruteforcer" class="square-button">GitHub</a>
+        <a href="https://www.youtube.com/enderlite" class="square-button">YouTube</a>
     </div>
 </body>
 </html>
