@@ -35,12 +35,4 @@
     Visit My YouTube Channel
   </a>
 
-  <a href="https://github.com/Enderlite" target="_blank" class="button github-button">
-    Visit My GitHub Profile
-  </a>
-
-  <a href="https://github.com/AIbruteforcer/" target="_blank" class="button chatgpt-button">
-    Visit My GitHub Repository
-  </a>
-</body>
-</html>
+  <a href="https://github.com/Enderlite"
