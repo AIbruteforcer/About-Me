@@ -1,46 +1,15 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <style>
-        h1 {
-            text-align: center;
-            margin-top: 50px;
-        }
-
-        p {
-            text-align: center;
-            margin-top: 20px;
-        }
-
-        .button {
-            display: inline-block;
-            padding: 10px 20px;
-            background-color: #f0f0f0;
-            color: #333;
-            text-decoration: none;
-            margin: 10px;
-            font-family: Arial, sans-serif;
-            font-size: 16px;
-        }
-
-        .button:hover {
-            background-color: #ddd;
-        }
-    </style>
+  <title>Enderlite</title>
 </head>
 <body>
-    <h1>Hi, guys!</h1>
-
-    <p>
-        <b>Welcome to my page!</b><br><br>
-        <i>
-            I'm Enderlite.<br>
-            Currently working on chatbot development using AI techniques.<br>
-            Open to collaborating on interesting and innovative projects.<br>
-        </i>
-    </p>
-
-    <a href="https://github.com/AIbruteforcer" class="button">GitHub</a>
-    <a href="https://www.youtube.com/enderlite" class="button">YouTube</a>
+  <h1>Enderlite</h1>
+  <p>Welcome to my website! I'm Enderlite, and I specialize in creating ChatGPT jailbreaks. Currently, I'm working on a jailbreak called "Rebail." Stay tuned for exciting updates!</p>
+  <p>Check out my links below:</p>
+  <ul>
+    <li><a href="https://github.com/AIbruteforcer">GitHub</a></li>
+    <li><a href="https://youtube.com/enderlite">YouTube</a></li>
+  </ul>
 </body>
 </html>
